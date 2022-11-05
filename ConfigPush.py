@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# SIMPLE PYTHON SCRIPT TO CHNAGE CONFIG AND COMPARE WITH PREVIOUS REVISION 
+# SIMPLE PYTHON SCRIPT TO CHANGE CONFIG AND COMPARE WITH PREVIOUS REVISION 
 # Author: Sai Kiran Meduri - medurikiran.sk@gmail.com
 # Description: This is a simple script that takes config file, Ip, username and password as a user input, 
 # scp config file to cisco filesyatem, load the configurtaion into running config and 
